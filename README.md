@@ -1,6 +1,6 @@
 # CareLoop Clinics — No-Show Guard
 
-**Repository:** <paste your GitHub link here>
+**Repository:** https://github.com/Shivamrana1996/careloop-noshow-guard
 
 From raw bookings to a risk model and an AI-assisted follow-up review.
 Capstone project — Masai × E&ICT Academy, IIT Roorkee.
